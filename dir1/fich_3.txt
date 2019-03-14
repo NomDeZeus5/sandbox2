@@ -1,0 +1,1 @@
+This is the third file that I created in a new directory - goal is to check if we can add directories that includes files
